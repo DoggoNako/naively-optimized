@@ -1,0 +1,13 @@
+version:3955
+advancedItemTooltips:true
+darkMojangStudiosBackground:true
+enableVsync:false
+joinedFirstServer:true
+maxFps:260
+onboardAccessibility:false
+simulationDistance:6
+skipMultiplayerWarning:true
+telemetryOptInExtra:false
+tutorialStep:none
+graphicsMode:0
+particles:1

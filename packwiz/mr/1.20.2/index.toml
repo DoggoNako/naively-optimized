@@ -1,0 +1,43 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "2ef9143af20c2107e187f31235aed3459ba6638118709a6dc0faeb361f6cbb31"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "72f058e777c8ad8c995700a0ce0234ede80f60a2efc6dfb9b21334919d6c9b3c"
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "096c243c4d4ddce2ce503068a4857a52d6c22ff2b550efdf3ef45678326110fb"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "42816f4e6c6e4ff4e8c510fc53051dfcb0d1df0ab58777aec21e0a4920b2ddb5"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "9bec067f33352d729b6cb1b6645fe57edeb3d5d70a0cfd710c66d13b5b383859"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "1dda1b7da7d937c86c68b1ff70e83dfcff13d33ecc2796a4bd9e5de759bdb401"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "290add8f33a5513c9e8d784e321055ae1de793bac8ca477c7056ca8a073b7428"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "86e4874da932b97e07de9223e7332817ed264e068c8529cb69be30e3a4715a36"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "20b1390af0057c7c3e9a4c2a97bf4e2fe1a46d6a220b426cb7617b448286822b"
