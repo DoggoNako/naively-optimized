@@ -1,11 +1,7 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/moreculling.toml"
-hash = "2ef9143af20c2107e187f31235aed3459ba6638118709a6dc0faeb361f6cbb31"
-
-[[files]]
-file = "config/sodium-options.json"
+file = "config/embeddium-options.json"
 hash = "72f058e777c8ad8c995700a0ce0234ede80f60a2efc6dfb9b21334919d6c9b3c"
 
 [[files]]

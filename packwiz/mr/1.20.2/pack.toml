@@ -1,12 +1,12 @@
 name = "Naively Optimized"
 author = "DoggoNako"
-version = "mr1.20.2-1.0.0"
+version = "mr1.20.2-1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c305a2d38d3386f95c48991a7ae4ffe5e73a700fb7caa730ef45b72e3b2c002c"
+hash = "8523015b66a1a36fb7faf3ed200e1a4eccf75507025d22ba01426f9aa41ed69d"
 
 [versions]
 minecraft = "1.20.2"
