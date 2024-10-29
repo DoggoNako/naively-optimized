@@ -1,1 +1,1 @@
-../../packwiz/shared/options.txt
+../../shared/options.txt
