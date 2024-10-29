@@ -1,0 +1,13 @@
+name = "Naively Optimized"
+author = "DoggoNako"
+version = "mr1.20.4-1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "85c89d71f35b32eb1ac676415a528684829296de21b9e4df79669070dc9087f7"
+
+[versions]
+minecraft = "1.20.4"
+neoforge = "20.4.237"
