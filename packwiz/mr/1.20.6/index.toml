@@ -1,0 +1,49 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/embeddium-options.json"
+hash = "72f058e777c8ad8c995700a0ce0234ede80f60a2efc6dfb9b21334919d6c9b3c"
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "96b2fb043fef692e070f39ec824d04014c2ce30893fe380ef4fb713b298adbde"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "ca29eb9cbd6aa1416db3612258418b3191a9b1a70c7b848b429b9573d78ddaa1"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "1ee67174a8f0d01728e83d3443b0151b20c0a0a2dba90390a554757899405423"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "e7219efc348a4678c97a5fdb93be6abe061487112283131581757999e4ca7fa4"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "cbb3a0ddfc76233fb15b6a05327fd4d7ef42a8e84a495acdba3e7ed29bbcbacb"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "7a6421dc1c8a32d16ce1c4f8304077c5550f7952c835c508394ff499ce43b2a5"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "d2143ebb0ff2df693dd8d7feda47ddcef10fafec87fbd892a3ed80d27d1666d0"
+metafile = true
+
+[[files]]
+file = "mods/radium.pw.toml"
+hash = "d16c7de04f4379ca38731d70627104134fbd1c9e23c9252dea4718fbd859ca3f"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "20b1390af0057c7c3e9a4c2a97bf4e2fe1a46d6a220b426cb7617b448286822b"
