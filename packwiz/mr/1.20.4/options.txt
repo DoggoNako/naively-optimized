@@ -1,1 +1,1 @@
-/home/nako/Downloads/naively-optimized/packwiz/shared/options.txt
+../../packwiz/shared/options.txt
