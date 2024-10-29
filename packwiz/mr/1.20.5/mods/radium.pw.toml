@@ -1,0 +1,13 @@
+name = "Radium"
+filename = "radium-mc1.20.5-0.12.5-hotfix+git.2b74993.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2gvRmQXx/versions/J94iZRnw/radium-mc1.20.5-0.12.5-hotfix%2Bgit.2b74993.jar"
+hash-format = "sha512"
+hash = "d97e016e034f56951de8f93d8310c6044b0cab09d8e4d9c31bbcc9c785801636dba5ef17b7ce5454f585be55e1e00eee88c285f476b758fed41026500e1ecda9"
+
+[update]
+[update.modrinth]
+mod-id = "2gvRmQXx"
+version = "J94iZRnw"
